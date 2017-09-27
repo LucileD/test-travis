@@ -1,4 +1,5 @@
 language : java
 script :
   - cd tp1
+  - mkdir bin
   - javac -d bin/ src/*.java
