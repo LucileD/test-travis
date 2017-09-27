@@ -1,3 +1,4 @@
 language : java
 script :
-  - cd tp1; javac -d bin/ src/*.java
+  - cd tp1
+  - javac -d bin/ src/*.java
