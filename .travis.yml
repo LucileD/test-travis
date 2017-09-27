@@ -1,0 +1,3 @@
+language : java
+script :
+  - cd tp1; javac -d bin/ src/*.java
