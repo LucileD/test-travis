@@ -1,0 +1,12 @@
+1;Justine;bricolage
+2;Jean;Photo-video
+3;Jacques;bricolage
+4;Richard;jardinage
+5;Claire;jardinage
+6;Claire;bricolage
+7;Paul;Photo-video
+8;Paul;Photo-video
+9;Richard;bricolage
+10;Claire;bricolage
+11;Paul;bricolage
+12;Jean;sport
